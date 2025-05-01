@@ -1,0 +1,264 @@
+#,Municipio,Población (censo 2022),Departamento
+1,Asunción,462241,Distrito Capital
+2,Ciudad del Este,325819,Alto Paraná
+3,Luque,259705,Central
+4,Capiatá,236999,Central
+5,San Lorenzo,225395,Central
+6,Limpio,139652,Central
+7,Pedro Juan Caballero,127437,Amambay
+8,Lambaré,127150,Central
+9,Ñemby,116383,Central
+10,Fernando de la Mora,110255,Central
+11,Encarnación,106842,Itapúa
+12,Coronel Oviedo,98323,Caaguazú
+13,Caaguazú,98200,Caaguazú
+14,Itauguá,93213,Central
+15,Presidente Franco,88744,Alto Paraná
+16,Mariano Roque Alonso,85133,Central
+17,Hernandarias,83285,Alto Paraná
+18,Minga Guazú,81072,Alto Paraná
+19,Concepción,73360,Concepción
+20,Villa Elisa,71383,Central
+21,Areguá,70298,Central
+22,Itá,69049,Central
+23,Ypané,66700,Central
+24,Villarrica,62565,Guairá
+25,Julián Augusto Saldívar,60162,Central
+26,San Antonio,57843,Central
+27,Caacupé,50409,Cordillera
+28,Villa Hayes,47967,Presidente Hayes
+29,Cambyretá,47717,Itapúa
+30,San Estanislao,46405,San Pedro
+31,Santa Rosa del Aguaray,39643,San Pedro
+32,Horqueta,39548,Concepción
+33,Doctor Juan Eulogio Estigarribia,38894,Caaguazú
+34,Villeta,35941,Central
+35,Pilar,34741,Ñeembucú
+36,Curuguaty,33561,Canindeyú
+37,San Pedro de Ycuamandiyú,32267,San Pedro
+38,Capiibary,30570,San Pedro
+39,San Ignacio Guazú,29430,Misiones
+40,Carapeguá,29351,Paraguarí
+41,Yaguarón,29242,Paraguarí
+42,Saltos del Guairá,28553,Canindeyú
+43,San Juan Nepomuceno,28233,Caazapá
+44,Guayaibí,28214,San Pedro
+45,Guarambaré,27695,Central
+46,Tobatí,27435,Cordillera
+47,Itakyry,27340,Alto Paraná
+48,Santa Rita,27249,Alto Paraná
+49,Piribebuy,25758,Cordillera
+50,Tomás Romero Pereira,25419,Itapúa
+51,Repatriación,24459,Caaguazú
+52,Caazapá,23654,Caazapá
+53,Choré,23548,San Pedro
+54,Yhú,22524,Caaguazú
+55,San Pedro del Paraná,22318,Itapúa
+56,Benjamín Aceval,22008,Presidente Hayes
+57,Abaí,21964,Caazapá
+58,Emboscada,21182,Cordillera
+59,Ypacaraí,21030,Central
+60,San Juan Bautista,20979,Misiones
+61,Paraguarí,20678,Paraguarí
+62,Filadelfia,20595,Boquerón
+63,Paso Yobái,20562,Guairá
+64,Loma Plata,20545,Boquerón
+65,Doctor Juan Manuel Frutos,20451,Caaguazú
+66,Yasy Cañy,20399,Canindeyú
+67,Arroyos y Esteros,20347,Cordillera
+68,Teniente Irala,20145,Presidente Hayes
+69,Yby Yaú,19468,Concepción
+70,Eusebio Ayala,19334,Cordillera
+71,Independencia,19235,Guairá
+72,Liberación,19100,San Pedro
+73,Capitán Bado,18851,Amambay
+74,Ybycuí,17972,Paraguarí
+75,Pirayú,17419,Paraguarí
+76,Edelira,17362,Itapúa
+77,Ayolas,17337,Misiones
+78,Coronel Bogado,17192,Itapúa
+79,General Elizardo Aquino,16971,San Pedro
+80,Boquerón,16764,Boquerón
+81,Tavaí,16409,Caazapá
+82,Santa Rosa de Lima,16403,Misiones
+83,Doctor Juan León Mallorquín,16144,Alto Paraná
+84,Juan Emiliano O'Leary,16092,Alto Paraná
+85,Atyrá,15988,Cordillera
+86,Maracaná,15357,Canindeyú
+87,Yuty,14924,Caazapá
+88,Natalio,14865,Itapúa
+89,Quiindy,14488,Paraguarí
+90,Altos,14461,Cordillera
+91,San Rafael del Paraná,14166,Itapúa
+92,San José de los Arroyos,13926,Caaguazú
+93,Tacuatí,13847,San Pedro
+94,Carlos Antonio López,13792,Itapúa
+95,Obligado,13606,Itapúa
+96,Loreto,13580,Concepción
+97,Mariscal Estigarribia,13174,Boquerón
+98,Villa Ygatimí,13074,Canindeyú
+99,Tres de Mayo,12923,Caazapá
+100,Tembiaporá,12877,Caaguazú
+101,Hohenau,12809,Itapúa
+102,Acahay,12646,Paraguarí
+103,Raúl Arsenio Oviedo,12543,Caaguazú
+104,Yby Pytá,12284,Canindeyú
+105,Yrybucuá,12271,San Pedro
+106,San Bernardino,12216,Cordillera
+107,Bella Vista Norte,12027,Amambay
+108,Minga Porá,11959,Alto Paraná
+109,San Joaquín,11949,Caaguazú
+110,San Vicente Pancholo,11571,San Pedro
+111,Alto Verá,11503,Itapúa
+112,San Lázaro,11192,Concepción
+113,San Alberto,11162,Alto Paraná
+114,Nueva Esperanza,11069,Canindeyú
+115,Carayaó,10832,Caaguazú
+116,Katueté,10774,Canindeyú
+117,Cerro Corá,10690,Amambay
+118,Belén,10605,Concepción
+119,Itacurubí del Rosario,10507,San Pedro
+120,Vaquería,10498,Caaguazú
+121,Bella Vista Sur,10447,Itapúa
+122,Lima,10303,San Pedro
+123,Caraguatay,10143,Cordillera
+124,Yataity del Norte,10113,San Pedro
+125,Mayor Otaño,10101,Itapúa
+126,General Isidoro Resquín,10019,San Pedro
+127,Nueva Italia,9941,Central
+128,San Roque,9637,Paraguarí
+129,Capitán Mauricio José Troche,9590,Guairá
+130,Capitán Miranda,9528,Itapúa
+131,Itapúa Poty,9273,Itapúa
+132,Capitán Meza,9253,Itapúa
+133,Puerto Pinasco,9241,Presidente Hayes
+134,San Juan del Paraná,9083,Itapúa
+135,Itacurubí de la Cordillera,8961,Cordillera
+136,25 de Diciembre,8703,San Pedro
+137,Yatytay,8651,Itapúa
+138,General Artigas,8623,Itapúa
+139,Villa del Rosario,8617,San Pedro
+140,Ypejhú,8607,Canindeyú
+141,San Cristóbal,8563,Alto Paraná
+142,Ybyrarobaná,8468,Canindeyú
+143,Santa Rosa del Mbutuy,8467,Caaguazú
+144,Fram,8357,Itapúa
+145,Arroyito,8292,Concepción
+146,Yguazú,8131,Alto Paraná
+147,Mbocayaty del Guairá,8003,Guairá
+148,Trinidad,7972,Itapúa
+149,General Álvarez,7842,Canindeyú
+150,Borja,7758,Guairá
+151,Corpus Christi,7739,Canindeyú
+152,Paso Horqueta,7646,Concepción
+153,Alberdi,7536,Ñeembucú
+154,Tres de Febrero,7492,Caaguazú
+155,Santa María de Fe,7481,Misiones
+156,José Domingo Ocampos,7459,Caaguazú
+157,San Cosme y Damián,7397,Itapúa
+158,La Paloma del Espíritu Santo,7284,Canindeyú
+159,Los Cedrales,7258,Alto Paraná
+160,Iturbe,7166,Guairá
+161,Tavapy,6903,Alto Paraná
+162,Mbuyapey,6838,Paraguarí
+163,General Eugenio A. Garay,6752,Guairá
+164,Azotey,6731,Concepción
+165,Naranjal,6608,Alto Paraná
+166,Ñacunday,6468,Alto Paraná
+167,Carmen del Paraná,6417,Itapúa
+168,Mbaracayú,6406,Alto Paraná
+169,Juan de Mena,6341,Cordillera
+170,Sargento José Félix López,6153,Concepción
+171,Pirapó,6075,Itapúa
+172,Itapé,6070,Guairá
+173,Caapucú,6045,Paraguarí
+174,R.I. Tres Corrales,6021,Caaguazú
+175,Nanawa,6005,Presidente Hayes
+176,Santiago,5995,Misiones
+177,Santa Rosa del Monday,5923,Alto Paraná
+178,Valenzuela,5907,Cordillera
+179,Campo Aceval,5848,Presidente Hayes
+180,General Delgado,5695,Itapúa
+181,Nueva Germania,5690,San Pedro
+182,Doctor Raúl Peña,5617,Alto Paraná
+183,Puerto Casado,5439,Alto Paraguay
+184,Zanja Pytá,5419,Amambay
+185,Ybytymí,5360,Paraguarí
+186,Mariscal López,5338,Caaguazú
+187,Isla Pucú,5304,Cordillera
+188,La Colmena,5254,Paraguarí
+189,Sapucai,5218,Paraguarí
+190,Jesús,5197,Itapúa
+191,José Fassardi,5139,Guairá
+192,San Miguel,5116,Misiones
+193,Fulgencio Yegros,5072,Caazapá
+194,Domingo Martínez de Irala,5035,Alto Paraná
+195,Unión,5032,San Pedro
+196,Primero de Marzo,4997,Cordillera
+197,Karapaí,4988,Amambay
+198,Nueva Alborada,4896,Itapúa
+199,Nueva Toledo,4826,Caaguazú
+200,Doctor Cecilio Báez,4812,Caaguazú
+201,Félix Pérez Cardozo,4805,Guairá
+202,General Bernardino Caballero,4795,Paraguarí
+203,Escobar,4747,Paraguarí
+204,Simón Bolívar,4740,Caaguazú
+205,General Higinio Morínigo,4728,Caazapá
+206,Nueva Colombia,4602,Cordillera
+207,Quyquyhó,4589,Paraguarí
+208,Fuerte Olimpo,4586,Alto Paraguay
+209,Coronel Martínez,4505,Guairá
+210,Capitán Carmelo Peralta,4402,Alto Paraguay
+211,Santa Elena,4346,Cordillera
+212,Cerrito,4340,Ñeembucú
+213,Buena Vista,4296,Caazapá
+214,Antequera,4250,San Pedro
+215,Yataity del Guairá,4173,Guairá
+216,San José del Rosario,4119,San Pedro
+217,Paso Barreto,3988,Concepción
+218,Santa Fe del Paraná,3981,Alto Paraná
+219,Iruña,3943,Alto Paraná
+220,Natalicio Talavera,3843,Guairá
+221,Loma Grande,3836,Cordillera
+222,Doctor Moisés Santiago Bertoni,3815,Caazapá
+223,San Juan Bautista de Ñeembucú,3803,Ñeembucú
+224,José Falcón,3693,Presidente Hayes
+225,Nueva Londres,3594,Caaguazú
+226,Maciel,3461,Caazapá
+227,San Pablo,3415,San Pedro
+228,Villa Oliva,3377,Ñeembucú
+229,Mbocayaty del Yhaguy,3316,Cordillera
+230,La Pastora,3294,Caaguazú
+231,Tebicuarymí,3225,Paraguarí
+232,San Patricio,3193,Misiones
+233,Nueva Asunción,3172,Presidente Hayes
+234,General José Eduvigis Díaz,3164,Ñeembucú
+235,Villa Florida,3066,Misiones
+236,Mayor José Martínez,3037,Ñeembucú
+237,San José Obrero,2974,Cordillera
+238,María Antonia,2968,Paraguarí
+239,Ñumí,2864,Guairá
+240,Bahía Negra,2768,Alto Paraguay
+241,Teniente Esteban Martínez,2743,Presidente Hayes
+242,Tacuaras,2717,Ñeembucú
+243,La Paz,2669,Itapúa
+244,Tebicuary,2639,Guairá
+245,Laurel,2586,Canindeyú
+246,San Salvador,2565,Guairá
+247,General José María Bruguez,2491,Presidente Hayes
+248,José Leandro Oviedo,2417,Itapúa
+249,Humaitá,2391,Ñeembucú
+250,San Alfredo,2385,Concepción
+251,Itacuá,2377,Concepción
+252,Laureles,2323,Ñeembucú
+253,Itanará,2191,Canindeyú
+254,Isla Umbú,2166,Ñeembucú
+255,Yabebyry,2142,Misiones
+256,Paso de Patria,1809,Ñeembucú
+257,Villalbín,1613,Ñeembucú
+258,Guazú Cuá,1393,Ñeembucú
+259,Puerto Adela,1326,Canindeyú
+260,Doctor Bottrell,1321,Guairá
+261,Desmochados,1171,Ñeembucú
+262,Villa Franca,1138,Ñeembucú
+263,San Carlos del Apa,856,Concepción
